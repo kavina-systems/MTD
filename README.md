@@ -14,3 +14,5 @@ During the soft landing period no spreadsheet required, this will automatically 
 This is a standalone application for Windows (7,8,10 x32 and x64), no installation required
 
 Distributed as Freeware
+
+This is an HMRC approved product for MTD VAT
