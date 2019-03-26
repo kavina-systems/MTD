@@ -9,9 +9,9 @@ Retrieve VAT liabilities
 Retrieve VAT payments
 
 Primarily aimed at users who use spreadsheets for accounts and act as bridging software for supported spreadsheets;
-Microsoft Excel 
-WPS Office  
-Open Office  
+Microsoft Excel  
+WPS Office   
+Open Office   
 Libre Office  
 The spreadsheet must include defined worksheet template.
 
