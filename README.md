@@ -8,10 +8,16 @@ Retrieve a submitted VAT return
 Retrieve VAT liabilities
 Retrieve VAT payments
 
-Primarily aimed at users who use spreadsheets for accounts and allow users to carry out manual VAT returns (Soft landing period - this will expire on 01/04/2020).
-To act as bridging software for spreadsheets (Excel / WPS Office / Open Office / LibreOffice spreadsheet must include defined worksheet template).
-During the soft landing period no spreadsheet required, note the manual function will automatically expire on 1st April 2020
-This is a standalone application for Windows (7,8,10 x32 and x64), no installation required
+Primarily aimed at users who use spreadsheets for accounts and act as bridging software for supported spreadsheets;
+Microsoft Excel 
+WPS Office  
+Open Office  
+Libre Office 
+The spreadsheet must include defined worksheet template.
+
+This is a standalone application for Windows (7,8,10 x32 and x64), no installation required.
+
+During the Soft Landing period manual VAT returns can be carried out without the use of a spreadsheet, note the soft landing period will expire 01/04/2020
 
 Distributed as Freeware
 
