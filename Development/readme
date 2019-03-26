@@ -1,8 +1,2 @@
 
-Under Test V3.7
-
-1) Reset all - clear view return settings
-2) View liablities numbering bug corrected
-3) Open Office spreedsheet supported, use command line arguments to use Excel or Open office
-i.e. KVAT.exe -openoffice
-no command the default Excel is used
+Under Test V3.8
