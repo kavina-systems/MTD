@@ -12,7 +12,7 @@ Primarily aimed at users who use spreadsheets for accounts and act as bridging s
 Microsoft Excel 
 WPS Office  
 Open Office  
-Libre Office 
+Libre Office  
 The spreadsheet must include defined worksheet template.
 
 This is a standalone application for Windows (7,8,10 x32 and x64), no installation required.
