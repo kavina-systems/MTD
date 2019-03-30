@@ -22,3 +22,5 @@ During the Soft Landing period manual VAT returns can be carried out without the
 Distributed as Freeware
 
 This is an HMRC approved product for MTD VAT
+
+Watch the demo video - https://drive.google.com/open?id=1Mswwwu5gkZMBZNp1Zb1OYhECl6E2om8U
