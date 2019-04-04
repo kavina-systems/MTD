@@ -19,7 +19,7 @@ This is a standalone application for Windows (7,8,10 x32 and x64), no installati
 
 During the Soft Landing period manual VAT returns can be carried out without the use of a spreadsheet, note the soft landing period will expire 01/04/2020
 
-Distributed as Freeware
+Distributed as Freeware, no sign up or registration required.
 
 This is an HMRC approved product for MTD VAT
 
