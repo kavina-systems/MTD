@@ -1,7 +1,7 @@
 
 # KVAT MTD VAT
 
-Basic MTD VAT Bridging Software, uses API’s to;
+Basic MTD VAT Bridging Software, uses HMRC API’s to;
 Retrieve VAT obligations
 Submit VAT return for period
 Retrieve a submitted VAT return
