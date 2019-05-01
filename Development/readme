@@ -1,2 +1,5 @@
 
-Under Test V3.9
+Under Test V3.10
+
+1) Import xml submission template, to interface with accounts packages.
+Currently using HMRC VAT sample
