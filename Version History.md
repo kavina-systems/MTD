@@ -1,5 +1,9 @@
 Version History
 
+03/05/2019 V3.10 - 
+1) removed calcs for box 3
+2) fixed bugs around box 5
+
 01/05/2019 V3.9 -
 1) Auto calc of box 5 removed
 2) Auto update fixed, appeared to have stopped working around 3.x
