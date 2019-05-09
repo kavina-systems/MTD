@@ -1,5 +1,9 @@
 Version History
 
+10/05/2019 V3.11 -
+1) Additional checks and status meesages when excel in edit mode
+2) Diagnostic log file created using startup parameter -diag
+
 03/05/2019 V3.10 - 
 1) removed calcs for box 3
 2) fixed bugs around box 5
