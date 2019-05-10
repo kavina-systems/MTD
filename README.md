@@ -7,12 +7,13 @@ Basic MTD VAT Bridging Software, uses HMRC API’s to;
 3) Retrieve VAT liabilities
 4) Retrieve VAT payments
 
+
 Primarily aimed at users who use spreadsheets for accounts and act as bridging software for supported spreadsheets;
 Microsoft Excel  
 WPS Office   
 Open Office   
 Libre Office  
-The spreadsheet must include defined worksheet template.
+The spreadsheet must include the defined worksheet template.
 
 This is a standalone application for Windows (7,8,10 x32 and x64), no installation required.
 
