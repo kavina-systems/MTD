@@ -3,8 +3,7 @@
 
 Basic MTD VAT Bridging Software, uses HMRC API’s to;
 Retrieve VAT obligations
-Submit VAT return for period
-Retrieve a submitted VAT return
+Submit VAT return
 Retrieve VAT liabilities
 Retrieve VAT payments
 
