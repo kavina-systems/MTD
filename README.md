@@ -17,7 +17,7 @@ The spreadsheet must include defined worksheet template.
 
 This is a standalone application for Windows (7,8,10 x32 and x64), no installation required.
 
-During the Soft Landing period manual VAT returns can be carried out without the use of a spreadsheet, note the soft landing period will expire 01/04/2020 (note the rest of software will continue to work using a spreadsheet for returns)
+During the Soft Landing period manual VAT returns can be carried out without the use of a spreadsheet, note the soft landing period will expire 01/04/2020 (note the rest of the software will continue to work using a spreadsheet for returns)
 
 Distributed as Freeware, no sign up or registration required.
 
