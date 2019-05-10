@@ -10,10 +10,10 @@ Basic MTD VAT Bridging Software, uses HMRC API’s to;
 
 
 Bridging software for users who use a spreadsheet for accounts, the following spreadsheets are supported;
-Microsoft Excel  
-WPS Office   
-Open Office   
-Libre Office  
+1) Microsoft Excel  
+2) WPS Office   
+3) Open Office   
+4) Libre Office  
 The spreadsheet must include the defined worksheet template.
 
 This is a standalone application for Windows (7,8,8.1,10 x32 and x64), no installation required.
