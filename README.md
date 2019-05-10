@@ -22,7 +22,7 @@ The HMRC have made provision for a 'Soft Landing Period', during this period man
 KVAT allows manual data entry to the 9 boxes during this period (no spreadsheet required).
 When the soft landing period expires (01/04/2020) it will not be possible to carry out manual returns, KVAT will continue to work as bridging software for the supported spreadsheets.
 
-It is possible to test KVAT using the HMRC test site before connecting to your live account.
+It is possible to test/try out KVAT using the HMRC test site before connecting to your live account.
 
 This product is distributed as Freeware, no sign up or registration required.
 
