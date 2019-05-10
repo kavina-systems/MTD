@@ -1,5 +1,7 @@
 
-Under Test V3.11
+Under Test V3.12
 
 1) Import xml submission template, to interface with accounts packages.
 Currently using HMRC VAT sample
+
+2) Improved support for open office
