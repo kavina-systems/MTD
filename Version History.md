@@ -1,5 +1,8 @@
 Version History
 
+29/05/2019 V3.12 -
+1) Bug fixes to prevent false 'VAT submission error' messages
+
 10/05/2019 V3.11 -
 1) Additional checks and status meesages when excel in edit mode
 2) Diagnostic log file created using startup parameter -diag
