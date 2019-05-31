@@ -33,7 +33,7 @@ default Excel
 19/03/2019 V3.5 -
 1) Load/save to ini files removed
 2) Load import excel buttons removed
-3) Darg N drop enabled using spreedsheet onto forms
+3) Drag N drop enabled using spreedsheet onto forms
 4) Tokens stored in spreedsheet
 5) Can now select sandbox at runtime
 
