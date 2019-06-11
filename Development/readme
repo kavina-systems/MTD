@@ -1,6 +1,18 @@
 
 Under Development V3.13
 
+Changes
+1) Spelling corrected 'Sumbit' > 'Submit'
+2) Additional Submit VAT button added
+3) Retrival button added to toolbar
+4) Tool tips descriptions corrected on submissions results dialog
+
+Under Development;
+1) Rework submit vat selection
+
+
+Future Developments;
+
 1) Import xml submission template, to interface with accounts packages.
 Currently using HMRC VAT sample
 
