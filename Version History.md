@@ -1,5 +1,14 @@
 Version History
 
+22/08/2019 V3.13 -
+1) Spelling corrected 'Sumbit' > 'Submit'
+2) Additional Submit VAT button added
+3) Retrival button added to toolbar
+4) Tool tips descriptions corrected on submissions results dialog
+5) Submission processing format changed tp dd-mm-yyyy
+6) Submissions error with null values in box 3 & 5 fixed
+7) Submissions result page, spelling mistakes corrected
+
 29/05/2019 V3.12 -
 1) Bug fixes to prevent false 'VAT submission error' messages
 
