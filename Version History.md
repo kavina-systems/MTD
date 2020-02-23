@@ -1,5 +1,15 @@
 Version History
 
+22/02/2020 V3.16
+1) Fraud prevention headers changed
+
+##/01/2020 V3.15
+test / development
+
+21/02/2020 V3.14
+1) Test Fraud Prevention Headers API Added
+2) Fraud Headers updated
+
 22/08/2019 V3.13 -
 1) Spelling corrected 'Sumbit' > 'Submit'
 2) Additional Submit VAT button added
