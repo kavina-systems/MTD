@@ -16,7 +16,7 @@ Bridging software for users who use a spreadsheet for accounts, the following sp
 4) Libre Office  
 The spreadsheet must include the defined worksheet template.
 
-This is a standalone application for Windows (7,8,8.1,10 x32 and x64), no installation required.
+This is a standalone application for Windows (8,8.1,10 x32 and x64), no installation required. Windows 7 no longer works with KVAT
 
 The HMRC have made provision for a 'Soft Landing Period', during this period manual VAT returns can be carried out. 
 KVAT allows manual data entry to the 9 boxes during this period (no spreadsheet required).
